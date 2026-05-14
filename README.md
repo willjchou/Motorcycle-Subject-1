@@ -6,7 +6,7 @@
 
 ## 在线访问
 
-[https://moto.xiaomimimo.com](https://moto.xiaomimimo.com)
+[moto.mrmaopapa.com](https://moto.mrmaopapa.com/index.html)
 
 ## 项目结构
 
@@ -65,7 +65,8 @@
 
 ## 作者
 
-by [xiaomimimo](https://github.com/willjchou)
+by xiaomimimo
+by workbuddy
 
 ## License
 
