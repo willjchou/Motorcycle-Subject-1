@@ -12,7 +12,7 @@
   --accent-secondary: #2c3e50;
   --text-primary: #1a1a1a;
   --text-body: #333333;
-  --text-muted: #6b6b6b;
+  --text-muted: #595959;
   --border: #e0dbd3;
   --border-light: #f0ece6;
   --tag-blue: #1a5276;
@@ -32,6 +32,13 @@
 /* ===== RESET ===== */
 * { margin: 0; padding: 0; box-sizing: border-box; }
 html { scroll-behavior: smooth; }
+/* Focus indicator for keyboard accessibility (WCAG AA) */
+a:focus-visible,
+button:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
 body {
   font-family: 'Noto Sans SC', -apple-system, BlinkMacSystemFont, sans-serif;
   background: var(--bg);

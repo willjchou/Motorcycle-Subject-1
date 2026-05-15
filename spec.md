@@ -35,7 +35,6 @@
 ## 2. 文件结构
 
 ```
-C:\Users\zhouwenji\Desktop\openclaw\科目一\
 ├── index.html      首页导航（四科目入口 + 考试概览）
 ├── common.css      公共样式表（组件库 + 响应式 + 打印）
 ├── k1.html         科目一：道路交通安全法律、法规和相关知识
